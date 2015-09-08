@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:src"
+      name = "src">
+      <Group
+         location = "group:category"
+         name = "category">
+      </Group>
+      <FileRef
+         location = "group:GCBCellDelegate.h">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionReusableView.h">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionReusableView.m">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionViewCell.h">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionViewCell.m">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionViewController.h">
+      </FileRef>
+      <FileRef
+         location = "group:GCBCollectionViewController.m">
+      </FileRef>
+      <FileRef
+         location = "group:GCBViewController.h">
+      </FileRef>
+      <FileRef
+         location = "group:GCBViewController.m">
+      </FileRef>
+      <FileRef
+         location = "group:GCBViewDelegate.h">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:iOSTech/iOSTech.xcodeproj">
+   </FileRef>
+</Workspace>
